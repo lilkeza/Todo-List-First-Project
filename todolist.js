@@ -22,6 +22,6 @@ while (input !== "quit" && input !== "q") {
     } else {
         console.log("Please enter a valid command!")
     }
-    input = prompt("What would you like to do?")
+    input = prompt("Insert command")
 }
 console.log("Ok Goodbye!")
